@@ -1,0 +1,272 @@
+[
+    {
+        "Order_ID": 1001,
+        "Date": "2026-01-02",
+        "Product": "Laptop",
+        "Region": "North",
+        "Quantity": 5,
+        "Unit_Price": 16549,
+        "Total_Sales": 82745
+    },
+    {
+        "Order_ID": 1002,
+        "Date": "2026-01-03",
+        "Product": "Mouse",
+        "Region": "South",
+        "Quantity": 2,
+        "Unit_Price": 44848,
+        "Total_Sales": 89696
+    },
+    {
+        "Order_ID": 1003,
+        "Date": "2026-01-04",
+        "Product": "Headphones",
+        "Region": "North",
+        "Quantity": 10,
+        "Unit_Price": 28151,
+        "Total_Sales": 281510
+    },
+    {
+        "Order_ID": 1004,
+        "Date": "2026-01-05",
+        "Product": "Laptop",
+        "Region": "North",
+        "Quantity": 2,
+        "Unit_Price": 14828,
+        "Total_Sales": 29656
+    },
+    {
+        "Order_ID": 1005,
+        "Date": "2026-01-06",
+        "Product": "Mouse",
+        "Region": "North",
+        "Quantity": 9,
+        "Unit_Price": 13531,
+        "Total_Sales": 121779
+    },
+    {
+        "Order_ID": 1006,
+        "Date": "2026-01-07",
+        "Product": "Headphones",
+        "Region": "West",
+        "Quantity": 4,
+        "Unit_Price": 29939,
+        "Total_Sales": 119756
+    },
+    {
+        "Order_ID": 1007,
+        "Date": "2026-01-08",
+        "Product": "Headphones",
+        "Region": "East",
+        "Quantity": 1,
+        "Unit_Price": 10963,
+        "Total_Sales": 10963
+    },
+    {
+        "Order_ID": 1008,
+        "Date": "2026-01-09",
+        "Product": "Monitor",
+        "Region": "East",
+        "Quantity": 5,
+        "Unit_Price": 10689,
+        "Total_Sales": 53445
+    },
+    {
+        "Order_ID": 1009,
+        "Date": "2026-01-10",
+        "Product": "Mouse",
+        "Region": "East",
+        "Quantity": 2,
+        "Unit_Price": 6578,
+        "Total_Sales": 13156
+    },
+    {
+        "Order_ID": 1010,
+        "Date": "2026-01-11",
+        "Product": "Monitor",
+        "Region": "North",
+        "Quantity": 6,
+        "Unit_Price": 23041,
+        "Total_Sales": 138246
+    },
+    {
+        "Order_ID": 1011,
+        "Date": "2026-01-12",
+        "Product": "Headphones",
+        "Region": "East",
+        "Quantity": 1,
+        "Unit_Price": 48323,
+        "Total_Sales": 48323
+    },
+    {
+        "Order_ID": 1012,
+        "Date": "2026-01-13",
+        "Product": "Monitor",
+        "Region": "North",
+        "Quantity": 7,
+        "Unit_Price": 5664,
+        "Total_Sales": 39648
+    },
+    {
+        "Order_ID": 1013,
+        "Date": "2026-01-14",
+        "Product": "Headphones",
+        "Region": "East",
+        "Quantity": 10,
+        "Unit_Price": 24200,
+        "Total_Sales": 242000
+    },
+    {
+        "Order_ID": 1014,
+        "Date": "2026-01-15",
+        "Product": "Headphones",
+        "Region": "South",
+        "Quantity": 2,
+        "Unit_Price": 3503,
+        "Total_Sales": 7006
+    },
+    {
+        "Order_ID": 1015,
+        "Date": "2026-01-16",
+        "Product": "Mouse",
+        "Region": "East",
+        "Quantity": 2,
+        "Unit_Price": 15756,
+        "Total_Sales": 31512
+    },
+    {
+        "Order_ID": 1016,
+        "Date": "2026-01-17",
+        "Product": "Laptop",
+        "Region": "West",
+        "Quantity": 5,
+        "Unit_Price": 30214,
+        "Total_Sales": 151070
+    },
+    {
+        "Order_ID": 1017,
+        "Date": "2026-01-18",
+        "Product": "Keyboard",
+        "Region": "South",
+        "Quantity": 6,
+        "Unit_Price": 23783,
+        "Total_Sales": 142698
+    },
+    {
+        "Order_ID": 1018,
+        "Date": "2026-01-19",
+        "Product": "Mouse",
+        "Region": "East",
+        "Quantity": 2,
+        "Unit_Price": 40420,
+        "Total_Sales": 80840
+    },
+    {
+        "Order_ID": 1019,
+        "Date": "2026-01-20",
+        "Product": "Mouse",
+        "Region": "South",
+        "Quantity": 3,
+        "Unit_Price": 30794,
+        "Total_Sales": 92382
+    },
+    {
+        "Order_ID": 1020,
+        "Date": "2026-01-21",
+        "Product": "Monitor",
+        "Region": "East",
+        "Quantity": 9,
+        "Unit_Price": 14892,
+        "Total_Sales": 134028
+    },
+    {
+        "Order_ID": 1021,
+        "Date": "2026-01-22",
+        "Product": "Keyboard",
+        "Region": "North",
+        "Quantity": 4,
+        "Unit_Price": 2603,
+        "Total_Sales": 10412
+    },
+    {
+        "Order_ID": 1022,
+        "Date": "2026-01-23",
+        "Product": "Keyboard",
+        "Region": "West",
+        "Quantity": 5,
+        "Unit_Price": 4837,
+        "Total_Sales": 24185
+    },
+    {
+        "Order_ID": 1023,
+        "Date": "2026-01-24",
+        "Product": "Mouse",
+        "Region": "East",
+        "Quantity": 4,
+        "Unit_Price": 43454,
+        "Total_Sales": 173816
+    },
+    {
+        "Order_ID": 1024,
+        "Date": "2026-01-25",
+        "Product": "Monitor",
+        "Region": "West",
+        "Quantity": 8,
+        "Unit_Price": 9863,
+        "Total_Sales": 78904
+    },
+    {
+        "Order_ID": 1025,
+        "Date": "2026-01-26",
+        "Product": "Keyboard",
+        "Region": "South",
+        "Quantity": 4,
+        "Unit_Price": 49323,
+        "Total_Sales": 197292
+    },
+    {
+        "Order_ID": 1026,
+        "Date": "2026-01-27",
+        "Product": "Headphones",
+        "Region": "East",
+        "Quantity": 10,
+        "Unit_Price": 28577,
+        "Total_Sales": 285770
+    },
+    {
+        "Order_ID": 1027,
+        "Date": "2026-01-28",
+        "Product": "Headphones",
+        "Region": "West",
+        "Quantity": 6,
+        "Unit_Price": 14873,
+        "Total_Sales": 89238
+    },
+    {
+        "Order_ID": 1028,
+        "Date": "2026-01-29",
+        "Product": "Mouse",
+        "Region": "West",
+        "Quantity": 2,
+        "Unit_Price": 3587,
+        "Total_Sales": 7174
+    },
+    {
+        "Order_ID": 1029,
+        "Date": "2026-01-30",
+        "Product": "Laptop",
+        "Region": "South",
+        "Quantity": 3,
+        "Unit_Price": 45096,
+        "Total_Sales": 135288
+    },
+    {
+        "Order_ID": 1030,
+        "Date": "2026-01-31",
+        "Product": "Monitor",
+        "Region": "North",
+        "Quantity": 7,
+        "Unit_Price": 25509,
+        "Total_Sales": 178563
+    }
+]
